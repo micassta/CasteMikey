@@ -17,11 +17,18 @@ public class Player_Movement : MonoBehaviour
     public LayerMask floorLayer;
     private bool onFloor;
 
+    ///////////
+    public Agarrar_Objeto agarrarObjeto;
+    public BoxCollider2D bc;
+    ///////////
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         playerScale = transform.localScale;
         rb = GetComponent<Rigidbody2D>();
+
+        bc = GetComponent<BoxCollider2D>();
     }
 
     // Update is called once per frame
@@ -58,8 +65,28 @@ public class Player_Movement : MonoBehaviour
             movement.x = 0f;
         }
 
-    }
+        ///////////
+        if (Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.DownArrow))
+        {
+            //Debug.Log("TOY AGACHADO");
+            agarrarObjeto.AgarrarSoltar();  //Funcion del Script Agarrar_Objeto
+            bc.offset = new Vector2(0f, -0.25f);
+            bc.size = new Vector2(1f, 0.5f);
+            velocity = 2.5f;
+            jumpForce = 1.5f;
+        }
 
+        else
+        {
+            //Debug.Log("TOY DE PIE");
+            bc.offset = new Vector2(0f, 0f);
+            bc.size = new Vector2(1f, 1f);
+            velocity = 5f;
+            jumpForce = 5f;
+        }
+        ///////////
+
+    }
     void Jump()
     {
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
@@ -71,4 +98,5 @@ public class Player_Movement : MonoBehaviour
         Gizmos.color = Color.red;
         Gizmos.DrawLine(transform.position, transform.position + Vector3.down * raycastDistance);
     }
+
 }
