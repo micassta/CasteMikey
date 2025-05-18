@@ -58,11 +58,6 @@ public class Player_Movement : MonoBehaviour
             movement.x = 0f;
         }
 
-        if(Input.GetKeyDown(KeyCode.E) && (Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.DownArrow)))
-        {
-            Debug.Log("TOY AGACHADO");
-
-        }
     }
 
     void Jump()
