@@ -23,7 +23,7 @@ public class Player_Movement : MonoBehaviour
     private bool noRoof;
 
     ///////////
-    public Agarrar_Objeto agarrarObjeto;
+    public Interactuar_Objeto interactuarObjeto;
     public BoxCollider2D bc;
     ///////////
 
@@ -76,7 +76,7 @@ public class Player_Movement : MonoBehaviour
         {
             Jump();
             onFloor = false;
-            Debug.Log("TOY SALTANDO");
+            //Debug.Log("TOY SALTANDO");
         }
 
         else
@@ -87,8 +87,8 @@ public class Player_Movement : MonoBehaviour
         ///////////
         if (Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.DownArrow))
         {
-            Debug.Log("TOY AGACHADO");
-            agarrarObjeto.AgarrarSoltar();  //Funcion del Script Agarrar_Objeto
+            //Debug.Log("TOY AGACHADO");
+            interactuarObjeto.AgarrarSoltar();  //Funcion del Script Agarrar_Objeto
             bc.offset = new Vector2(0f, -0.25f);
             bc.size = new Vector2(1f, 0.5f);
             velocity = 2.5f;
@@ -99,7 +99,7 @@ public class Player_Movement : MonoBehaviour
         {
             if (noRoof)
             {
-                Debug.Log("TOY DE PIE");
+                //Debug.Log("TOY DE PIE");
                 bc.offset = new Vector2(0f, 0f);
                 bc.size = new Vector2(1f, 1f);
                 velocity = 5f;

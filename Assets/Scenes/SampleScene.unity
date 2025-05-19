@@ -1052,7 +1052,7 @@ MonoBehaviour:
   floorLayer:
     serializedVersion: 2
     m_Bits: 128
-  agarrarObjeto: {fileID: 1566066934}
+  interactuarObjeto: {fileID: 1566066934}
   bc: {fileID: 1566066932}
   sizeBoxOnFloor: {x: 0.76, y: 0.6}
   sizeBoxToRoof: {x: 0.78, y: 0.76}

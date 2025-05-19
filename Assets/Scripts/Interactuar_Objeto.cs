@@ -1,31 +1,13 @@
 using Unity.VisualScripting;
 using UnityEngine;
 
-public class Agarrar_Objeto : MonoBehaviour
+public class Interactuar_Objeto : MonoBehaviour
 {
     public Transform puntoDeAgarre; //papá
     private GameObject objetoEnZona; //candidato a hijo
     private GameObject objetoAgarrado; //hijo
     private bool estaAgarrando = false;
     private Rigidbody2D rbObjeto;
-
-    //public BoxCollider2D bx;
-    //private BoxCollider2D bxParado;
-    //private BoxCollider2D bxAgachado;
-
-    private void Start()
-    {
-        //bx = GetComponent<BoxCollider2D>();
-        //bxParado = bx;
-        //bxAgachado.offset = new Vector2(0, -0.25f);
-        //bxAgachado.size = new Vector2(0, 0.3f);
-    }
-
-
-    // Update is called once per frame
-    void Update()
-    {
-    }
 
     public void AgarrarSoltar()
     {
@@ -34,6 +16,7 @@ public class Agarrar_Objeto : MonoBehaviour
         {
             if (estaAgarrando) // Soltar
             {
+                Debug.Log("TOY SOLTANDO");
                 rbObjeto = objetoAgarrado.GetComponent<Rigidbody2D>();
                 rbObjeto.simulated = true;
                 //rbObjeto.bodyType = RigidbodyType2D.Dynamic;
@@ -45,6 +28,7 @@ public class Agarrar_Objeto : MonoBehaviour
 
             else if (objetoEnZona != null) // Agarrar
             {
+                Debug.Log("TOY AGARRANDO");
                 objetoAgarrado = objetoEnZona; //se hace esto para que solo haya un objeto agarrado
 
                 rbObjeto = objetoAgarrado.GetComponent<Rigidbody2D>();
@@ -55,6 +39,14 @@ public class Agarrar_Objeto : MonoBehaviour
                 objetoAgarrado.transform.SetParent(puntoDeAgarre);
                 estaAgarrando = true;
             }
+        }
+    }
+
+    public void Arrojar()
+    {
+        if(Input.GetKeyDown(KeyCode.E))
+        {
+            Debug.Log("TOY ARROJANDO");
         }
     }
 
