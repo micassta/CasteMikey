@@ -1046,13 +1046,15 @@ MonoBehaviour:
   rb: {fileID: 1566066927}
   playerScale: {x: 0, y: 0, z: 0}
   animator: {fileID: 1566066933}
-  raycastDistance: 0.5
+  raycastDistance_hit_floor: 0.5
+  raycastDistance_hit_roof: 0.38
   floorLayer:
     serializedVersion: 2
     m_Bits: 128
   agarrarObjeto: {fileID: 1566066934}
   bc: {fileID: 1566066932}
-  sizeBoxOnFloor: {x: 1, y: 1}
+  sizeBoxOnFloor: {x: 0.76, y: 0.6}
+  sizeBoxToRoof: {x: 0.78, y: 0.76}
 --- !u!61 &1566066932
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1326,7 +1328,7 @@ GameObject:
   - component: {fileID: 2001391480}
   - component: {fileID: 2001391479}
   - component: {fileID: 2001391478}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Object
   m_TagString: Agarrable
   m_Icon: {fileID: 0}
