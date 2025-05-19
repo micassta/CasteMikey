@@ -1,6 +1,9 @@
 using System;
+using System.Drawing;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Rendering;
+using static UnityEngine.UI.Image;
 
 public class Player_Movement : MonoBehaviour
 {
@@ -13,7 +16,7 @@ public class Player_Movement : MonoBehaviour
     public Vector3 playerScale;
 
     public Animator animator;
-    public float raycastDistance = 0.1f;
+    public float raycastDistance = 0.5f;
     public LayerMask floorLayer;
     private bool onFloor;
 
@@ -21,6 +24,10 @@ public class Player_Movement : MonoBehaviour
     public Agarrar_Objeto agarrarObjeto;
     public BoxCollider2D bc;
     ///////////
+
+    ///
+    public Vector2 sizeBoxOnFloor = new Vector2 (1f, 1f);
+    ///
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -47,8 +54,11 @@ public class Player_Movement : MonoBehaviour
             transform.localScale = new Vector3(playerScale.x, playerScale.y, playerScale.z);
         }
 
-        RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, raycastDistance, floorLayer);
-        onFloor = hit.collider == true;
+        //RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, raycastDistance, floorLayer);
+        //onFloor = hit.collider == true;
+        Debug.Log(transform.position);
+        RaycastHit2D hit_floor = Physics2D.BoxCast(transform.position, sizeBoxOnFloor, 0f, Vector2.down, raycastDistance, floorLayer);
+        onFloor = hit_floor.collider != null;
         //animator.SetBool("onFloor", onFloor);
 
         //animator.SetFloat("movement", movement.x);
@@ -95,8 +105,21 @@ public class Player_Movement : MonoBehaviour
 
     private void OnDrawGizmos()
     {
-        Gizmos.color = Color.red;
-        Gizmos.DrawLine(transform.position, transform.position + Vector3.down * raycastDistance);
+        //Gizmos.color = UnityEngine.Color.red;
+        //Gizmos.DrawLine(transform.position, transform.position + Vector3.down * raycastDistance);
+
+        Gizmos.color = UnityEngine.Color.blue;
+
+        Vector2 origin = transform.position;
+        Vector2 direction = Vector2.down;
+
+        // Dibuja el box inicial (desde donde se lanza)
+        Gizmos.DrawWireCube(origin, sizeBoxOnFloor);
+
+        // Dibuja el box final (posición a la que llegará)
+        Vector2 endPos = origin + direction * raycastDistance;
+        Gizmos.color = UnityEngine.Color.red;
+        Gizmos.DrawWireCube(endPos, sizeBoxOnFloor);
     }
 
 }

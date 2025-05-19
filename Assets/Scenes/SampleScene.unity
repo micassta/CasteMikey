@@ -1046,12 +1046,13 @@ MonoBehaviour:
   rb: {fileID: 1566066927}
   playerScale: {x: 0, y: 0, z: 0}
   animator: {fileID: 1566066933}
-  raycastDistance: 0.9
+  raycastDistance: 0.5
   floorLayer:
     serializedVersion: 2
     m_Bits: 128
   agarrarObjeto: {fileID: 1566066934}
   bc: {fileID: 1566066932}
+  sizeBoxOnFloor: {x: 1, y: 1}
 --- !u!61 &1566066932
 BoxCollider2D:
   m_ObjectHideFlags: 0
