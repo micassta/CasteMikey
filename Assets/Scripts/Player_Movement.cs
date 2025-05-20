@@ -100,6 +100,7 @@ public class Player_Movement : MonoBehaviour
             if (noRoof)
             {
                 //Debug.Log("TOY DE PIE");
+                interactuarObjeto.Arrojar();
                 bc.offset = new Vector2(0f, 0f);
                 bc.size = new Vector2(1f, 1f);
                 velocity = 5f;
