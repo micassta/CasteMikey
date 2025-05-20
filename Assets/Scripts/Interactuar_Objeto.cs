@@ -3,11 +3,14 @@ using UnityEngine;
 
 public class Interactuar_Objeto : MonoBehaviour
 {
-    public Transform puntoDeAgarre; //papá
+    public Transform puntoDeAgarre; //papï¿½
     private GameObject objetoEnZona; //candidato a hijo
     private GameObject objetoAgarrado; //hijo
     private bool estaAgarrando = false;
     private Rigidbody2D rbObjeto;
+    public float fuerzaDeArroje = 10f;
+    public float anguloDeArrojeNormal = 45f;//lanzar en arco
+    public float anguloDeArrojeVertical = 65f;//lanzar mas alto
 
     public void AgarrarSoltar()
     {
@@ -44,9 +47,18 @@ public class Interactuar_Objeto : MonoBehaviour
 
     public void Arrojar()
     {
-        if(Input.GetKeyDown(KeyCode.E))
+        if (Input.GetKeyDown(KeyCode.E))
         {
             Debug.Log("TOY ARROJANDO");
+            objetoAgarrado.transform.SetParent(null);
+            rbObjeto.simulated = true;
+            float anguloFinal = anguloDeArrojeNormal * Mathf.Deg2Rad;
+
+            int direccion = transform.localScale.x > 0 ? 1:-1;
+            Vector2 fuerzaArco = new Vector2(Mathf.Cos(anguloFinal) * direccion,Mathf.Sin(anguloFinal)) * fuerzaDeArroje;
+            rbObjeto.AddForce(fuerzaArco, ForceMode2D.Impulse);
+            objetoAgarrado = null;
+            estaAgarrando = false;
         }
     }
 
