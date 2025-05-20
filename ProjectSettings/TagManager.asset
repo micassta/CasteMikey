@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - Agarrable
+  - Enemy
   layers:
   - Default
   - TransparentFX
