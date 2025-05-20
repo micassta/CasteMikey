@@ -54,6 +54,19 @@ public class Interactuar_Objeto : MonoBehaviour
             rbObjeto.simulated = true;
             float anguloFinal = anguloDeArrojeNormal * Mathf.Deg2Rad;
 
+            int direccion = transform.localScale.x > 0 ? 1 : -1;
+            Vector2 fuerzaArco = new Vector2(Mathf.Cos(anguloFinal) * direccion, Mathf.Sin(anguloFinal)) * fuerzaDeArroje;
+            rbObjeto.AddForce(fuerzaArco, ForceMode2D.Impulse);
+            objetoAgarrado = null;
+            estaAgarrando = false;
+        }
+        if (Input.GetKeyDown(KeyCode.E)&&Input.GetKeyDown(KeyCode.W)||Input.GetKeyDown(KeyCode.UpArrow))
+        {
+            Debug.Log("TOY ARROJANDO");
+            objetoAgarrado.transform.SetParent(null);
+            rbObjeto.simulated = true;
+            float anguloFinal = anguloDeArrojeVertical * Mathf.Deg2Rad;
+
             int direccion = transform.localScale.x > 0 ? 1:-1;
             Vector2 fuerzaArco = new Vector2(Mathf.Cos(anguloFinal) * direccion,Mathf.Sin(anguloFinal)) * fuerzaDeArroje;
             rbObjeto.AddForce(fuerzaArco, ForceMode2D.Impulse);
