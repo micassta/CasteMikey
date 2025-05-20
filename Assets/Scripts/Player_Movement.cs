@@ -21,6 +21,7 @@ public class Player_Movement : MonoBehaviour
     public LayerMask floorLayer;
     private bool onFloor;
     private bool noRoof;
+    public bool canFlip= true;
 
     ///////////
     public Interactuar_Objeto interactuarObjeto;
@@ -46,22 +47,24 @@ public class Player_Movement : MonoBehaviour
     {
         movement.x = Input.GetAxisRaw("Horizontal");
         transform.Translate(movement * velocity * Time.deltaTime);
-
-        if (movement.x < 0)
+        if (canFlip)
         {
-            transform.localScale = new Vector3(playerScale.x * -1, playerScale.y, playerScale.z);
-        }
+            if (movement.x < 0)
+            {
+                transform.localScale = new Vector3(playerScale.x * -1, playerScale.y, playerScale.z);
+            }
 
-        else if (movement.x > 0)
-        {
-            transform.localScale = new Vector3(playerScale.x, playerScale.y, playerScale.z);
+            else if (movement.x > 0)
+            {
+                transform.localScale = new Vector3(playerScale.x, playerScale.y, playerScale.z);
+            }
         }
 
         //RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, raycastDistance, floorLayer);
-        //onFloor = hit.collider == true;
-        //Debug.Log(transform.position);
+            //onFloor = hit.collider == true;
+            //Debug.Log(transform.position);
 
-        RaycastHit2D hit_floor = Physics2D.BoxCast(transform.position, sizeBoxOnFloor, 0f, Vector2.down, raycastDistance_hit_floor, floorLayer);
+            RaycastHit2D hit_floor = Physics2D.BoxCast(transform.position, sizeBoxOnFloor, 0f, Vector2.down, raycastDistance_hit_floor, floorLayer);
         onFloor = hit_floor.collider != null;
 
         RaycastHit2D hit_roof = Physics2D.BoxCast(transform.position, sizeBoxToRoof, 0f, Vector2.up, raycastDistance_hit_roof, floorLayer);
@@ -108,6 +111,7 @@ public class Player_Movement : MonoBehaviour
             }
         }
         ///////////
+        /// 
 
     }
     void Jump()
