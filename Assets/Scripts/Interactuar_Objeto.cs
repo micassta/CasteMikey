@@ -58,8 +58,23 @@ public class Interactuar_Objeto : MonoBehaviour
 
     public void Arrojar()
     {
-        if (Input.GetKeyDown(KeyCode.E))
+        if ((Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow)) && Input.GetKeyDown(KeyCode.E))
         {
+            Debug.Log("TOY ARROJANDO PA LIBA");
+            objetoAgarrado.transform.SetParent(null);
+            rbObjeto.simulated = true;
+            //float anguloFinal = anguloDeArrojeVertical * Mathf.Deg2Rad;
+
+            //int direccion = transform.localScale.x > 0 ? 1 : -1;
+            //Vector2 fuerzaArco = new Vector2(Mathf.Cos(anguloFinal) * direccion, Mathf.Sin(anguloFinal)) * fuerzaDeArroje;
+            rbObjeto.AddForce(new Vector2(0f, fuerzaDeArroje), ForceMode2D.Impulse);
+            objetoAgarrado = null;
+            estaAgarrando = false;
+        }
+
+        else if (Input.GetKeyDown(KeyCode.E))
+        {
+            Debug.Log("TOY LATIGANDO");
             if (!estaAgarrando)
             {
                 if (Input.GetKeyDown(KeyCode.X) && !isWhipping)
@@ -67,10 +82,10 @@ public class Interactuar_Objeto : MonoBehaviour
                     StartCoroutine(WhipSequence());
                 }
             }//para poner que cuendo se pique y si este agarrando algo lo lanze
-        }
-        {
-            if (Input.GetKeyDown(KeyCode.E))
+
+            else
             {
+
                 Debug.Log("TOY ARROJANDO");
                 objetoAgarrado.transform.SetParent(null);
                 rbObjeto.simulated = true;
@@ -82,37 +97,41 @@ public class Interactuar_Objeto : MonoBehaviour
                 objetoAgarrado = null;
                 estaAgarrando = false;
             }
-            if (Input.GetKeyDown(KeyCode.E) && Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow))
-            {
-                Debug.Log("TOY ARROJANDO");
-                objetoAgarrado.transform.SetParent(null);
-                rbObjeto.simulated = true;
-                float anguloFinal = anguloDeArrojeVertical * Mathf.Deg2Rad;
-
-                int direccion = transform.localScale.x > 0 ? 1 : -1;
-                Vector2 fuerzaArco = new Vector2(Mathf.Cos(anguloFinal) * direccion, Mathf.Sin(anguloFinal)) * fuerzaDeArroje;
-                rbObjeto.AddForce(fuerzaArco, ForceMode2D.Impulse);
-                objetoAgarrado = null;
-                estaAgarrando = false;
-            }
-
-
         }
+
+        //else if (Input.GetKeyDown(KeyCode.E))
+        //{
+        //    Debug.Log("TOY ARROJANDO");
+        //    objetoAgarrado.transform.SetParent(null);
+        //    rbObjeto.simulated = true;
+        //    float anguloFinal = anguloDeArrojeNormal * Mathf.Deg2Rad;
+
+        //    int direccion = transform.localScale.x > 0 ? 1 : -1;
+        //    Vector2 fuerzaArco = new Vector2(Mathf.Cos(anguloFinal) * direccion, Mathf.Sin(anguloFinal)) * fuerzaDeArroje;
+        //    rbObjeto.AddForce(fuerzaArco, ForceMode2D.Impulse);
+        //    objetoAgarrado = null;
+        //    estaAgarrando = false;
+        //}
+
+
+
     }
-        //Ataque de latigo
-        IEnumerator WhipSequence()
+        
+    //Ataque de latigo
+    IEnumerator WhipSequence()
     {
         isWhipping = true;
-        Player_Movement.canFlip = false; // no deja gorar mientras ataca
+        Player_Movement.canFlip = false; // no deja girar mientras ataca
 
         bool facingRight = transform.localScale.x > 0;
+
         //atras 
         Vector2 offsetBack = facingRight ? new Vector2(-0.5f, 1f) : new Vector2(0.5f, 1f);
         CreateHitbox(hitB1, offsetBack);
         yield return new WaitForSeconds(timing);
 
         //arriba
-        CreateHitbox(hitB2, new Vector2(0f, 1.5f));
+        CreateHitbox(hitB2, new Vector2(0f, 1.5f)); 
         yield return new WaitForSeconds(timing);
 
 
@@ -125,6 +144,7 @@ public class Interactuar_Objeto : MonoBehaviour
         isWhipping = false;
         Player_Movement.canFlip = true;
     }
+
     void CreateHitbox(GameObject prefab, Vector2 offset)
     {
         GameObject hitbox = Instantiate(prefab, (Vector2)playerTransform.position + offset, Quaternion.identity);
