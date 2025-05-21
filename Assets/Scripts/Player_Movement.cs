@@ -100,7 +100,7 @@ public class Player_Movement : MonoBehaviour
         Gizmos.color = Color.blue;
         Vector2 origin = transform.position;
 
-        Gizmos.DrawWireCube(origin, sizeBoxOnFloor);
+        Gizmos.DrawWireCube(origin, bc.size);
 
         Vector2 endPos_hit_floor = origin + Vector2.down * raycastDistance_hit_floor;
         Gizmos.color = Color.red;
