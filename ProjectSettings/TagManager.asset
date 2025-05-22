@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - Agarrable
+  - latigo
   layers:
   - Default
   - TransparentFX
