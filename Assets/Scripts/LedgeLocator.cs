@@ -109,12 +109,14 @@ public class LedgeLocator : Player
                 rb.linearVelocity = Vector2.zero;
                 rb.bodyType = RigidbodyType2D.Kinematic;
                 GetComponent<Horizontal_Movement>().enabled = false;
+                GetComponent<Jump>().enabled = false;
             }
 
             else
             {
                 rb.bodyType = RigidbodyType2D.Dynamic;
                 GetComponent<Horizontal_Movement>().enabled = true;
+                GetComponent<Jump>().enabled = true;
             }
         }
     }
@@ -123,7 +125,7 @@ public class LedgeLocator : Player
 
     protected virtual void LedgeHanging()
     {
-        if (grabbingLedge && Input.GetAxis("Vertical") > 0 && !climbing) //presiona la tecla de abajo, esta aggarando un ledge y no está escalando
+        if (grabbingLedge && (Input.GetAxis("Vertical") > 0 || Input.GetKeyDown(KeyCode.Space)) && !climbing) //presiona la tecla de abajo, esta aggarando un ledge y no está escalando
         {
             climbing = true;
 
@@ -152,6 +154,7 @@ public class LedgeLocator : Player
             falling = true;
             rb.bodyType = RigidbodyType2D.Dynamic;
             GetComponent<Horizontal_Movement>().enabled = true;
+            GetComponent<Jump>().enabled = true;
             Invoke("NotFalling", 1f);
         }
 
@@ -168,6 +171,7 @@ public class LedgeLocator : Player
             rb.bodyType = RigidbodyType2D.Dynamic;
             //I've set up my HorizontalMovement script to not run the movement logic if true, but if you're not sure how to set that up, use the line below
             GetComponent<Horizontal_Movement>().enabled = true;
+            GetComponent<Jump>().enabled = true;
             //Runs the NotFalling method half a second later to make sure the falling bool gets set back to false quickly
             Invoke("NotFalling", 1f);
         }
