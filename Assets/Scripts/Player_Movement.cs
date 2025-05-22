@@ -6,7 +6,7 @@ public class Player_Movement : MonoBehaviour
     public float velocity = 5f;
     public float jumpForce = 5f;
 
-    public Vector2 movement;
+    public Vector2 movement;    
     public Rigidbody2D rb;
 
     public Vector3 playerScale;
@@ -44,6 +44,7 @@ public class Player_Movement : MonoBehaviour
         {
             if (movement.x < 0)
                 transform.localScale = new Vector3(playerScale.x * -1, playerScale.y, playerScale.z);
+
             else if (movement.x > 0)
                 transform.localScale = new Vector3(playerScale.x, playerScale.y, playerScale.z);
         }

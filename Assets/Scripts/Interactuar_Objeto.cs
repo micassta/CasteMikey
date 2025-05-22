@@ -2,12 +2,12 @@ using Unity.VisualScripting;
 using UnityEngine;
 using System.Collections;
 
-public class Interactuar_Objeto : MonoBehaviour
+public class Interactuar_Objeto : Player
 {
     public Transform puntoDeAgarre; //pap�
     private GameObject objetoEnZona; //candidato a hijo
     private GameObject objetoAgarrado; //hijo
-    private bool estaAgarrando = false;
+    public bool estaAgarrando = false;
     private Rigidbody2D rbObjeto;
     public float fuerzaDeArroje = 10f;
     public float anguloDeArrojeNormal = 45f;//lanzar en arco
@@ -40,7 +40,7 @@ public class Interactuar_Objeto : MonoBehaviour
                 estaAgarrando = false;
             }
 
-            else if (objetoEnZona != null) // Agarrar
+            else if (objetoEnZona != null && !grabbingLedge) // Agarrar
             {
                 Debug.Log("TOY AGARRANDO");
                 objetoAgarrado = objetoEnZona; //se hace esto para que solo haya un objeto agarrado

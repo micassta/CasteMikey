@@ -565,7 +565,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: -5.2817467e-19, y: -0.0000000074091324, z: -3.913316e-27, w: 1}
-  m_LocalPosition: {x: -5.1600003, y: -3.06, z: -10}
+  m_LocalPosition: {x: -5.16, y: -3.06, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1576,13 +1576,16 @@ GameObject:
   m_Component:
   - component: {fileID: 1566066930}
   - component: {fileID: 1566066929}
+  - component: {fileID: 1566066938}
   - component: {fileID: 1566066927}
   - component: {fileID: 1566066932}
-  - component: {fileID: 1566066931}
-  - component: {fileID: 1566066933}
-  - component: {fileID: 1566066934}
-  - component: {fileID: 1566066935}
+  - component: {fileID: 1566066937}
   - component: {fileID: 1566066936}
+  - component: {fileID: 1566066939}
+  - component: {fileID: 1566066940}
+  - component: {fileID: 1566066934}
+  - component: {fileID: 1566066933}
+  - component: {fileID: 1566066935}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -1688,34 +1691,6 @@ Transform:
   - {fileID: 474495374}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1566066931
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1566066926}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 36025669d7dcbe545816070fd2944327, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  velocity: 5
-  jumpForce: 5
-  movement: {x: 0, y: 0}
-  rb: {fileID: 1566066927}
-  playerScale: {x: 0, y: 0, z: 0}
-  animator: {fileID: 1566066933}
-  raycastDistance_hit_floor: 0.78
-  raycastDistance_hit_roof: 0.38
-  floorLayer:
-    serializedVersion: 2
-    m_Bits: 128
-  canFlip: 1
-  interactuarObjeto: {fileID: 1566066934}
-  bc: {fileID: 1566066932}
-  sizeBoxOnFloor: {x: 0.76, y: 0.05}
-  sizeBoxToRoof: {x: 0.78, y: 0.76}
 --- !u!61 &1566066932
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1770,7 +1745,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1566066926}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 0e953e0228c7d0446bd7dadb385be9db, type: 2}
   m_CullingMode: 0
@@ -1858,7 +1833,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1566066926}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b86a9cb27b5fd21498956da4b34c5db4, type: 3}
   m_Name: 
@@ -1866,6 +1841,96 @@ MonoBehaviour:
   clip: {fileID: 0}
   climbingHorizontalOffset: 1
   grabbingLedge: 0
+--- !u!114 &1566066937
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1566066926}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88c87840d7b2b2c4c9005666ff77c1a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isFacingLeft: 0
+  isGrounded: 0
+  isJumping: 0
+  isCrouching: 0
+  grabbingLedge: 0
+  takingDamage: 0
+  isDead: 0
+  movement: {x: 0, y: 0}
+  velocity: 5
+--- !u!114 &1566066938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1566066926}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1a7cb1bc060b184ab0813480fe4541e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isFacingLeft: 0
+  isGrounded: 0
+  isJumping: 0
+  isCrouching: 0
+  grabbingLedge: 0
+  takingDamage: 0
+  isDead: 0
+--- !u!114 &1566066939
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1566066926}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63c0ae73d0444a64e84073fa85366a22, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isFacingLeft: 0
+  isGrounded: 0
+  isJumping: 0
+  isCrouching: 0
+  grabbingLedge: 0
+  takingDamage: 0
+  isDead: 0
+  jumpForce: 5
+  raycastDistance_hit_floor: 0.8
+  floorLayer:
+    serializedVersion: 2
+    m_Bits: 128
+  sizeBoxOnFloor: {x: 0.76, y: 0.08}
+--- !u!114 &1566066940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1566066926}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 678f6cbbfa5758643a6703b31d76356a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isFacingLeft: 0
+  isGrounded: 0
+  isJumping: 0
+  isCrouching: 0
+  grabbingLedge: 0
+  takingDamage: 0
+  isDead: 0
+  raycastDistance_hit_roof: 0.38
+  sizeBoxToRoof: {x: 0.76, y: 0.76}
+  interactuarObjeto: {fileID: 1566066934}
+  floorLayer:
+    serializedVersion: 2
+    m_Bits: 128
 --- !u!1 &1753077283
 GameObject:
   m_ObjectHideFlags: 0
