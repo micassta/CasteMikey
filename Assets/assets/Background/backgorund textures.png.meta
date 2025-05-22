@@ -163,10 +163,10 @@ TextureImporter:
       name: backgorund textures_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 929
-        width: 485
-        height: 592
+        x: 7
+        y: 930
+        width: 482
+        height: 590
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,10 +185,10 @@ TextureImporter:
       name: backgorund textures_1
       rect:
         serializedVersion: 2
-        x: 540
-        y: 1047
-        width: 451
-        height: 421
+        x: 542
+        y: 1048
+        width: 448
+        height: 418
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -207,10 +207,10 @@ TextureImporter:
       name: backgorund textures_2
       rect:
         serializedVersion: 2
-        x: 1045
-        y: 1076
-        width: 413
-        height: 385
+        x: 1046
+        y: 1078
+        width: 411
+        height: 382
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,10 +229,10 @@ TextureImporter:
       name: backgorund textures_3
       rect:
         serializedVersion: 2
-        x: 1201
-        y: 1457
-        width: 9
-        height: 12
+        x: 1202
+        y: 1458
+        width: 7
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -251,10 +251,10 @@ TextureImporter:
       name: backgorund textures_4
       rect:
         serializedVersion: 2
-        x: 1196
-        y: 1441
-        width: 6
-        height: 15
+        x: 1217
+        y: 1073
+        width: 10
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -273,10 +273,10 @@ TextureImporter:
       name: backgorund textures_5
       rect:
         serializedVersion: 2
-        x: 1216
-        y: 1072
-        width: 12
-        height: 6
+        x: 1237
+        y: 1073
+        width: 13
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -295,10 +295,10 @@ TextureImporter:
       name: backgorund textures_6
       rect:
         serializedVersion: 2
-        x: 1236
-        y: 1072
-        width: 15
-        height: 7
+        x: 518
+        y: 575
+        width: 500
+        height: 391
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -317,10 +317,10 @@ TextureImporter:
       name: backgorund textures_7
       rect:
         serializedVersion: 2
-        x: 127
-        y: 255
-        width: 259
-        height: 642
+        x: 782
+        y: 961
+        width: 7
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -339,10 +339,10 @@ TextureImporter:
       name: backgorund textures_8
       rect:
         serializedVersion: 2
-        x: 516
-        y: 574
-        width: 503
-        height: 393
+        x: 1030
+        y: 575
+        width: 500
+        height: 391
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -361,10 +361,10 @@ TextureImporter:
       name: backgorund textures_9
       rect:
         serializedVersion: 2
-        x: 1028
-        y: 574
-        width: 503
-        height: 393
+        x: 128
+        y: 256
+        width: 257
+        height: 640
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -383,10 +383,10 @@ TextureImporter:
       name: backgorund textures_10
       rect:
         serializedVersion: 2
-        x: 532
-        y: 41
-        width: 485
-        height: 446
+        x: 533
+        y: 42
+        width: 483
+        height: 444
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -405,10 +405,10 @@ TextureImporter:
       name: backgorund textures_11
       rect:
         serializedVersion: 2
-        x: 1045
-        y: 287
-        width: 181
-        height: 204
+        x: 1046
+        y: 288
+        width: 179
+        height: 201
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -427,10 +427,10 @@ TextureImporter:
       name: backgorund textures_12
       rect:
         serializedVersion: 2
-        x: 1330
-        y: 400
-        width: 9
-        height: 37
+        x: 1331
+        y: 401
+        width: 7
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -449,10 +449,10 @@ TextureImporter:
       name: backgorund textures_13
       rect:
         serializedVersion: 2
-        x: 1336
-        y: 293
-        width: 177
-        height: 162
+        x: 1338
+        y: 294
+        width: 174
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -471,10 +471,10 @@ TextureImporter:
       name: backgorund textures_14
       rect:
         serializedVersion: 2
-        x: 1507
-        y: 390
-        width: 13
-        height: 37
+        x: 1508
+        y: 391
+        width: 11
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -493,10 +493,10 @@ TextureImporter:
       name: backgorund textures_15
       rect:
         serializedVersion: 2
-        x: 1038
-        y: 351
-        width: 6
-        height: 24
+        x: 1039
+        y: 352
+        width: 4
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -515,10 +515,10 @@ TextureImporter:
       name: backgorund textures_16
       rect:
         serializedVersion: 2
-        x: 1011
-        y: 132
-        width: 9
-        height: 13
+        x: 1012
+        y: 134
+        width: 6
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -537,10 +537,10 @@ TextureImporter:
       name: backgorund textures_17
       rect:
         serializedVersion: 2
-        x: 1042
-        y: 19
-        width: 178
-        height: 199
+        x: 1043
+        y: 20
+        width: 176
+        height: 197
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -559,10 +559,10 @@ TextureImporter:
       name: backgorund textures_18
       rect:
         serializedVersion: 2
-        x: 1198
-        y: 3
-        width: 315
-        height: 339
+        x: 1199
+        y: 144
+        width: 159
+        height: 197
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -581,10 +581,10 @@ TextureImporter:
       name: backgorund textures_19
       rect:
         serializedVersion: 2
-        x: 833
-        y: 38
-        width: 17
-        height: 6
+        x: 1339
+        y: 4
+        width: 173
+        height: 225
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -603,10 +603,10 @@ TextureImporter:
       name: backgorund textures_20
       rect:
         serializedVersion: 2
-        x: 1122
-        y: 7
-        width: 27
-        height: 9
+        x: 834
+        y: 39
+        width: 15
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -621,11 +621,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: backgorund textures_21
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 8
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0128c9b2e80d14e4b87e52163543eafb
+      internalID: 578996026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 02ed73ab7b9687b44a50a8ef47bf208e
     internalID: 0
     vertices: []
     indices: 
@@ -634,7 +656,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      backgorund textures_0: -5529849306677424611
+      backgorund textures_1: -2395393912687171304
+      backgorund textures_10: 7473581818301081344
+      backgorund textures_11: -3455367706873277772
+      backgorund textures_12: -5254947903222071554
+      backgorund textures_13: -6529788294019278726
+      backgorund textures_14: -5477047644166825441
+      backgorund textures_15: -7993184135480679236
+      backgorund textures_16: 4804686322694428969
+      backgorund textures_17: 5079099786988078973
+      backgorund textures_18: 2483833470052247862
+      backgorund textures_19: 6414677814251433870
+      backgorund textures_2: -891781482350627679
+      backgorund textures_20: 1561397229836887509
+      backgorund textures_21: 578996026
+      backgorund textures_3: -538363925654709093
+      backgorund textures_4: -1818099853183102872
+      backgorund textures_5: 7426499371553345288
+      backgorund textures_6: -2417520424034041264
+      backgorund textures_7: -3968050167237445389
+      backgorund textures_8: 3309794703408776285
+      backgorund textures_9: 6735071664364431462
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
