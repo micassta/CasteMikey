@@ -22,14 +22,19 @@ public class Player_Movement : MonoBehaviour
     private bool onFloor;
     private bool noRoof;
     public bool canFlip= true;
+    //para pisar enemigos
+    public GameObject patas;
+    //pa la posicion de patas
+    public Transform posicionPatas;
 
     ///////////
     public Interactuar_Objeto interactuarObjeto;
     public BoxCollider2D bc;
+    private bool pata =false;
     ///////////
 
     ///
-    public Vector2 sizeBoxOnFloor = new Vector2 (0.76f, 0.6f);
+    public Vector2 sizeBoxOnFloor = new Vector2(0.76f, 0.6f);
     public Vector2 sizeBoxToRoof = new Vector2 (0.78f, 0.76f);
     ///
 
@@ -59,6 +64,20 @@ public class Player_Movement : MonoBehaviour
                 transform.localScale = new Vector3(playerScale.x, playerScale.y, playerScale.z);
             }
         }
+        if (onFloor)
+        {
+            Vector3 finalPos = posicionPatas.position + Vector3.down * 0.3f;
+            Instantiate(patas, finalPos, Quaternion.identity);
+        } else
+        {
+            if (pata)
+            {
+                Destroy(patas);
+                pata = false;
+            }
+            else
+                Debug.Log("no ha saltado aun");
+        }
 
         //RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, raycastDistance, floorLayer);
             //onFloor = hit.collider == true;
@@ -79,6 +98,7 @@ public class Player_Movement : MonoBehaviour
         {
             Jump();
             onFloor = false;
+            pata = true;
             //Debug.Log("TOY SALTANDO");
         }
 
