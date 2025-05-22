@@ -63,30 +63,25 @@ public class Player_Movement : MonoBehaviour
         }
 
         // Agacharse
-        if (Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.DownArrow))
+        if (Input.GetKeyDown(KeyCode.E))
         {
-            interactuarObjeto.AgarrarSoltar();
-            bc.offset = new Vector2(0f, -0.25f);
-            bc.size = new Vector2(1f, 0.5f);
-            velocity = 2.5f;
-            jumpForce = 1.5f;
-        }
-        else
-        {
-            if (noRoof)
+             Debug.Log("intentando latigo");
+                interactuarObjeto.Latigo();
+
+            if (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow))
             {
-                interactuarObjeto.Arrojar();
-                bc.offset = new Vector2(0f, 0f);
-                bc.size = new Vector2(1f, 1f);
-                velocity = 5f;
-                jumpForce = 5f;
+                interactuarObjeto.Arrojar(); // Arrojar hacia arriba
+            }
+            else if (interactuarObjeto.estaAgarrando)
+            {
+                interactuarObjeto.Arrojar(); // Arrojar normal
             }
         }
     }
 
     void FixedUpdate()
     {
-        // Aplicar movimiento y salto con f�sica
+        // Aplicar movimiento y salto con fisica
         rb.linearVelocity = new Vector2(movement.x * velocity, rb.linearVelocity.y);
 
         if (jumpRequested)

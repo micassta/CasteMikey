@@ -1799,9 +1799,9 @@ MonoBehaviour:
   anguloDeArrojeNormal: 45
   anguloDeArrojeVertical: 65
   timing: 0.1
-  hitB1: {fileID: 0}
-  hitB2: {fileID: 0}
-  hitB3: {fileID: 0}
+  hitB1: {fileID: 1673436003244567221, guid: 377edc8f7569f6249b3f889e74b731b4, type: 3}
+  hitB2: {fileID: 995670582841264346, guid: 3efe05f8a9ea59d45b03f9b0c5114503, type: 3}
+  hitB3: {fileID: 1310420586634997304, guid: fcf327933a28a6946bebf66cdaa6e7f1, type: 3}
   playerTransform: {fileID: 1566066930}
 --- !u!61 &1566066935
 BoxCollider2D:

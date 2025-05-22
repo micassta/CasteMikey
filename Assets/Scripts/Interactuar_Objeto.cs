@@ -20,7 +20,9 @@ public class Interactuar_Objeto : Player
     public GameObject hitB3;
     public Transform playerTransform;
     private bool isWhipping = false;
+    
     private Player_Movement Player_Movement;
+
 
 
     public void AgarrarSoltar()
@@ -72,19 +74,10 @@ public class Interactuar_Objeto : Player
             estaAgarrando = false;
         }
 
-        else if (Input.GetKeyDown(KeyCode.E))
+        else if (Input.GetKeyDown(KeyCode.E)&& estaAgarrando)
         {
-            Debug.Log("TOY LATIGANDO");
-            if (!estaAgarrando)
-            {
-                if (Input.GetKeyDown(KeyCode.X) && !isWhipping)
-                {
-                    StartCoroutine(WhipSequence());
-                }
-            }//para poner que cuendo se pique y si este agarrando algo lo lanze
-
-            else
-            {
+            
+           //para poner que cuendo se pique y si este agarrando algo lo lanze
 
                 Debug.Log("TOY ARROJANDO");
                 objetoAgarrado.transform.SetParent(null);
@@ -96,7 +89,7 @@ public class Interactuar_Objeto : Player
                 rbObjeto.AddForce(fuerzaArco, ForceMode2D.Impulse);
                 objetoAgarrado = null;
                 estaAgarrando = false;
-            }
+            
         }
 
         //else if (Input.GetKeyDown(KeyCode.E))
@@ -116,12 +109,19 @@ public class Interactuar_Objeto : Player
 
 
     }
+    public void Latigo()
+    {
+         if (!isWhipping&& Input.GetKeyDown(KeyCode.E))
+            {
+                    StartCoroutine(WhipSequence());
+            }
+    }
         
     //Ataque de latigo
     IEnumerator WhipSequence()
     {
         isWhipping = true;
-        Player_Movement.canFlip = false; // no deja girar mientras ataca
+         // no deja girar mientras ataca
 
         bool facingRight = transform.localScale.x > 0;
 
