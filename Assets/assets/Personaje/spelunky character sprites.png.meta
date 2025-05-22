@@ -1,0 +1,5785 @@
+fileFormatVersion: 2
+guid: 39860af5bf27ac647b892de2d1682255
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3788744832977978134
+    second: spelunky character sprites_0
+  - first:
+      213: -1482055357459804127
+    second: spelunky character sprites_1
+  - first:
+      213: -7816104066034405246
+    second: spelunky character sprites_2
+  - first:
+      213: -7935424789835445788
+    second: spelunky character sprites_3
+  - first:
+      213: -6019620777158620520
+    second: spelunky character sprites_4
+  - first:
+      213: -94172533511053828
+    second: spelunky character sprites_5
+  - first:
+      213: 7950266719450166598
+    second: spelunky character sprites_6
+  - first:
+      213: -6346354669276847470
+    second: spelunky character sprites_7
+  - first:
+      213: 3525424490765341979
+    second: spelunky character sprites_8
+  - first:
+      213: -1555368739147014756
+    second: spelunky character sprites_9
+  - first:
+      213: -1125223519010691732
+    second: spelunky character sprites_10
+  - first:
+      213: -7614242811723868453
+    second: spelunky character sprites_11
+  - first:
+      213: 8513706716442055892
+    second: spelunky character sprites_12
+  - first:
+      213: 5628351580983832875
+    second: spelunky character sprites_13
+  - first:
+      213: -2212196155619497958
+    second: spelunky character sprites_14
+  - first:
+      213: 92445826481609799
+    second: spelunky character sprites_15
+  - first:
+      213: 1002956899572689418
+    second: spelunky character sprites_16
+  - first:
+      213: 6456365667628147149
+    second: spelunky character sprites_17
+  - first:
+      213: -2671880161235737809
+    second: spelunky character sprites_18
+  - first:
+      213: -5848434093948811716
+    second: spelunky character sprites_19
+  - first:
+      213: -8251883024241095045
+    second: spelunky character sprites_20
+  - first:
+      213: -6399489620957551679
+    second: spelunky character sprites_21
+  - first:
+      213: -303892009777612590
+    second: spelunky character sprites_22
+  - first:
+      213: -5320378385608180177
+    second: spelunky character sprites_23
+  - first:
+      213: 1545974311015883871
+    second: spelunky character sprites_24
+  - first:
+      213: 6660805300958968374
+    second: spelunky character sprites_25
+  - first:
+      213: -6881569963798175008
+    second: spelunky character sprites_26
+  - first:
+      213: -5382070498384331985
+    second: spelunky character sprites_27
+  - first:
+      213: 8230178307929674372
+    second: spelunky character sprites_28
+  - first:
+      213: -6670099107807938293
+    second: spelunky character sprites_29
+  - first:
+      213: -4789238217824791599
+    second: spelunky character sprites_30
+  - first:
+      213: -3191535141927182610
+    second: spelunky character sprites_31
+  - first:
+      213: 5313435347101338577
+    second: spelunky character sprites_32
+  - first:
+      213: -6532236547084916543
+    second: spelunky character sprites_33
+  - first:
+      213: 2512338391991576881
+    second: spelunky character sprites_34
+  - first:
+      213: 1673495647752586309
+    second: spelunky character sprites_35
+  - first:
+      213: -2331636659465988600
+    second: spelunky character sprites_36
+  - first:
+      213: -4057497930554176472
+    second: spelunky character sprites_37
+  - first:
+      213: -2950690956451630713
+    second: spelunky character sprites_38
+  - first:
+      213: -6996684224996351346
+    second: spelunky character sprites_39
+  - first:
+      213: 54878515511145345
+    second: spelunky character sprites_40
+  - first:
+      213: -5972636104559455713
+    second: spelunky character sprites_41
+  - first:
+      213: -396881045125663010
+    second: spelunky character sprites_42
+  - first:
+      213: -3156397632642895951
+    second: spelunky character sprites_43
+  - first:
+      213: -3915089834570817413
+    second: spelunky character sprites_44
+  - first:
+      213: 504138198663481876
+    second: spelunky character sprites_45
+  - first:
+      213: -7663514431676859320
+    second: spelunky character sprites_46
+  - first:
+      213: 7394861468869093593
+    second: spelunky character sprites_47
+  - first:
+      213: -9154954562693975199
+    second: spelunky character sprites_48
+  - first:
+      213: 4015471869008991149
+    second: spelunky character sprites_49
+  - first:
+      213: -1965160911638541755
+    second: spelunky character sprites_50
+  - first:
+      213: -8416748680744349456
+    second: spelunky character sprites_51
+  - first:
+      213: -4493424538605128648
+    second: spelunky character sprites_52
+  - first:
+      213: 7967969414301815514
+    second: spelunky character sprites_53
+  - first:
+      213: 1183511712677068353
+    second: spelunky character sprites_54
+  - first:
+      213: -8675892400577435084
+    second: spelunky character sprites_55
+  - first:
+      213: -4530968154849623185
+    second: spelunky character sprites_56
+  - first:
+      213: 8348682141489712876
+    second: spelunky character sprites_57
+  - first:
+      213: -7393938030795018100
+    second: spelunky character sprites_58
+  - first:
+      213: 9042313082597143810
+    second: spelunky character sprites_59
+  - first:
+      213: 1381512098953534606
+    second: spelunky character sprites_60
+  - first:
+      213: 4413057798350019236
+    second: spelunky character sprites_61
+  - first:
+      213: -4483576661117514088
+    second: spelunky character sprites_62
+  - first:
+      213: 1418850640064267729
+    second: spelunky character sprites_63
+  - first:
+      213: -4127797999703236427
+    second: spelunky character sprites_64
+  - first:
+      213: 8916863289314868264
+    second: spelunky character sprites_65
+  - first:
+      213: -3049449605539560563
+    second: spelunky character sprites_66
+  - first:
+      213: 4150297751232579217
+    second: spelunky character sprites_67
+  - first:
+      213: -3535414540771518542
+    second: spelunky character sprites_68
+  - first:
+      213: 1058404990009187924
+    second: spelunky character sprites_69
+  - first:
+      213: -2410059864221459529
+    second: spelunky character sprites_70
+  - first:
+      213: -2447413600842164235
+    second: spelunky character sprites_71
+  - first:
+      213: -5797126494245456508
+    second: spelunky character sprites_72
+  - first:
+      213: 7103515607535193135
+    second: spelunky character sprites_73
+  - first:
+      213: -6614581993946959240
+    second: spelunky character sprites_74
+  - first:
+      213: 5489693929155597811
+    second: spelunky character sprites_75
+  - first:
+      213: -9094704335575378881
+    second: spelunky character sprites_76
+  - first:
+      213: 1011675323608707851
+    second: spelunky character sprites_77
+  - first:
+      213: -1072314512721127331
+    second: spelunky character sprites_78
+  - first:
+      213: 1910135977345112353
+    second: spelunky character sprites_79
+  - first:
+      213: -4986479152191616844
+    second: spelunky character sprites_80
+  - first:
+      213: -2333526814342075282
+    second: spelunky character sprites_81
+  - first:
+      213: 5526240922730660401
+    second: spelunky character sprites_82
+  - first:
+      213: 6492361556080456606
+    second: spelunky character sprites_83
+  - first:
+      213: 1915495331995179108
+    second: spelunky character sprites_84
+  - first:
+      213: -2125080464375349908
+    second: spelunky character sprites_85
+  - first:
+      213: 3063292273742189424
+    second: spelunky character sprites_86
+  - first:
+      213: 8540636323019828624
+    second: spelunky character sprites_87
+  - first:
+      213: 8054347847474069834
+    second: spelunky character sprites_88
+  - first:
+      213: -358774480610116793
+    second: spelunky character sprites_89
+  - first:
+      213: -1252116129778109553
+    second: spelunky character sprites_90
+  - first:
+      213: -826130105505915582
+    second: spelunky character sprites_91
+  - first:
+      213: -8718427049415085138
+    second: spelunky character sprites_92
+  - first:
+      213: -8290119483266529672
+    second: spelunky character sprites_93
+  - first:
+      213: 2485229572896661932
+    second: spelunky character sprites_94
+  - first:
+      213: -6879150062410665462
+    second: spelunky character sprites_95
+  - first:
+      213: -1646007864837090373
+    second: spelunky character sprites_96
+  - first:
+      213: 4305971159903430177
+    second: spelunky character sprites_97
+  - first:
+      213: 6003476981728420819
+    second: spelunky character sprites_98
+  - first:
+      213: 7481119235503557460
+    second: spelunky character sprites_99
+  - first:
+      213: 3415858894645099596
+    second: spelunky character sprites_100
+  - first:
+      213: 2921685212076149233
+    second: spelunky character sprites_101
+  - first:
+      213: 8402733338038555370
+    second: spelunky character sprites_102
+  - first:
+      213: -7360765995302613062
+    second: spelunky character sprites_103
+  - first:
+      213: -4566393540275910135
+    second: spelunky character sprites_104
+  - first:
+      213: 1348960828120052676
+    second: spelunky character sprites_105
+  - first:
+      213: 1083491900034280205
+    second: spelunky character sprites_106
+  - first:
+      213: -5071133944750228268
+    second: spelunky character sprites_107
+  - first:
+      213: -6923990401120551960
+    second: spelunky character sprites_108
+  - first:
+      213: 3323799156071772748
+    second: spelunky character sprites_109
+  - first:
+      213: -1809162765277717336
+    second: spelunky character sprites_110
+  - first:
+      213: 1950398255560073976
+    second: spelunky character sprites_111
+  - first:
+      213: 5714376955820653405
+    second: spelunky character sprites_112
+  - first:
+      213: 1530432821314444295
+    second: spelunky character sprites_113
+  - first:
+      213: 3456921547261584541
+    second: spelunky character sprites_114
+  - first:
+      213: -1091905294743740200
+    second: spelunky character sprites_115
+  - first:
+      213: -625607077452365560
+    second: spelunky character sprites_116
+  - first:
+      213: 4116341931433701744
+    second: spelunky character sprites_117
+  - first:
+      213: 8916390361713584782
+    second: spelunky character sprites_118
+  - first:
+      213: 5986374107569664832
+    second: spelunky character sprites_119
+  - first:
+      213: -6314983153424845532
+    second: spelunky character sprites_120
+  - first:
+      213: 5286157732739827619
+    second: spelunky character sprites_121
+  - first:
+      213: 5448538785093824433
+    second: spelunky character sprites_122
+  - first:
+      213: -663469664397342135
+    second: spelunky character sprites_123
+  - first:
+      213: -4050119772846263021
+    second: spelunky character sprites_124
+  - first:
+      213: -3071893907453175894
+    second: spelunky character sprites_125
+  - first:
+      213: -6273193550705825376
+    second: spelunky character sprites_126
+  - first:
+      213: 3630734728578317374
+    second: spelunky character sprites_127
+  - first:
+      213: -2456061509611213157
+    second: spelunky character sprites_128
+  - first:
+      213: -1103489638910509929
+    second: spelunky character sprites_129
+  - first:
+      213: -8181320464368417419
+    second: spelunky character sprites_130
+  - first:
+      213: 4651249485934944753
+    second: spelunky character sprites_131
+  - first:
+      213: -8772578022183529337
+    second: spelunky character sprites_132
+  - first:
+      213: -1998439408186138152
+    second: spelunky character sprites_133
+  - first:
+      213: -1346528172178890553
+    second: spelunky character sprites_134
+  - first:
+      213: 940210153810498671
+    second: spelunky character sprites_135
+  - first:
+      213: -789128701065705353
+    second: spelunky character sprites_136
+  - first:
+      213: 6028842119502193973
+    second: spelunky character sprites_137
+  - first:
+      213: -6985780090214537430
+    second: spelunky character sprites_138
+  - first:
+      213: -5573505624385723602
+    second: spelunky character sprites_139
+  - first:
+      213: 2760615381560510904
+    second: spelunky character sprites_140
+  - first:
+      213: -8200991350621170219
+    second: spelunky character sprites_141
+  - first:
+      213: 4958845779464839705
+    second: spelunky character sprites_142
+  - first:
+      213: -3923903524276029129
+    second: spelunky character sprites_143
+  - first:
+      213: -7237801392160278506
+    second: spelunky character sprites_144
+  - first:
+      213: -3337817134424792111
+    second: spelunky character sprites_145
+  - first:
+      213: -4545307487110372017
+    second: spelunky character sprites_146
+  - first:
+      213: -3307420076518866459
+    second: spelunky character sprites_147
+  - first:
+      213: 3495854745343411415
+    second: spelunky character sprites_148
+  - first:
+      213: -5276764394112538178
+    second: spelunky character sprites_149
+  - first:
+      213: -5973371894753390863
+    second: spelunky character sprites_150
+  - first:
+      213: 888666703422691034
+    second: spelunky character sprites_151
+  - first:
+      213: -1523192346703778587
+    second: spelunky character sprites_152
+  - first:
+      213: 3232606023025973284
+    second: spelunky character sprites_153
+  - first:
+      213: 4924365318933775266
+    second: spelunky character sprites_154
+  - first:
+      213: 874357281240827359
+    second: spelunky character sprites_155
+  - first:
+      213: 4481807477868294867
+    second: spelunky character sprites_156
+  - first:
+      213: -2091301390151742191
+    second: spelunky character sprites_157
+  - first:
+      213: -5674991836191284387
+    second: spelunky character sprites_158
+  - first:
+      213: -5813803596145977146
+    second: spelunky character sprites_159
+  - first:
+      213: 3660440159076031897
+    second: spelunky character sprites_160
+  - first:
+      213: -1962931667688733773
+    second: spelunky character sprites_161
+  - first:
+      213: -2619677869620910110
+    second: spelunky character sprites_162
+  - first:
+      213: -5454000622138708687
+    second: spelunky character sprites_163
+  - first:
+      213: -3812740775635343287
+    second: spelunky character sprites_164
+  - first:
+      213: 145513989074852837
+    second: spelunky character sprites_165
+  - first:
+      213: -8723999255919365881
+    second: spelunky character sprites_166
+  - first:
+      213: -5888871447356857091
+    second: spelunky character sprites_167
+  - first:
+      213: -8490903374765600957
+    second: spelunky character sprites_168
+  - first:
+      213: 7565957649866522533
+    second: spelunky character sprites_169
+  - first:
+      213: 2588365997586572494
+    second: spelunky character sprites_170
+  - first:
+      213: -7457398229091514399
+    second: spelunky character sprites_171
+  - first:
+      213: -4696567531670484417
+    second: spelunky character sprites_172
+  - first:
+      213: 1887658016020201592
+    second: spelunky character sprites_173
+  - first:
+      213: -2991584497622237340
+    second: spelunky character sprites_174
+  - first:
+      213: 4384846862372522262
+    second: spelunky character sprites_175
+  - first:
+      213: 2272636388007331123
+    second: spelunky character sprites_176
+  - first:
+      213: -7346576882117986594
+    second: spelunky character sprites_177
+  - first:
+      213: 7407181836173369455
+    second: spelunky character sprites_178
+  - first:
+      213: -3920589437788949289
+    second: spelunky character sprites_179
+  - first:
+      213: 398013603989116751
+    second: spelunky character sprites_180
+  - first:
+      213: 6243164130865530543
+    second: spelunky character sprites_181
+  - first:
+      213: -8065250004002662417
+    second: spelunky character sprites_182
+  - first:
+      213: -339285519067262461
+    second: spelunky character sprites_183
+  - first:
+      213: -3777336198192794464
+    second: spelunky character sprites_184
+  - first:
+      213: 3408025430293865586
+    second: spelunky character sprites_185
+  - first:
+      213: 6797461816874015799
+    second: spelunky character sprites_186
+  - first:
+      213: 7859342670033181653
+    second: spelunky character sprites_187
+  - first:
+      213: 73583180671057154
+    second: spelunky character sprites_188
+  - first:
+      213: 6454663192873859187
+    second: spelunky character sprites_189
+  - first:
+      213: -1955886957365734761
+    second: spelunky character sprites_190
+  - first:
+      213: 8525136871123487632
+    second: spelunky character sprites_191
+  - first:
+      213: 6059616089160286413
+    second: spelunky character sprites_192
+  - first:
+      213: -658501799444782826
+    second: spelunky character sprites_193
+  - first:
+      213: 6290206317221078428
+    second: spelunky character sprites_194
+  - first:
+      213: 3051426039965889299
+    second: spelunky character sprites_195
+  - first:
+      213: -2886767559365472932
+    second: spelunky character sprites_196
+  - first:
+      213: 4856415404766165759
+    second: spelunky character sprites_197
+  - first:
+      213: 952402558998624749
+    second: spelunky character sprites_198
+  - first:
+      213: -2540152243492389843
+    second: spelunky character sprites_199
+  - first:
+      213: -6632470595757917186
+    second: spelunky character sprites_200
+  - first:
+      213: 2685147497794919149
+    second: spelunky character sprites_201
+  - first:
+      213: -1435904110759048892
+    second: spelunky character sprites_202
+  - first:
+      213: 3181021780127643184
+    second: spelunky character sprites_203
+  - first:
+      213: -3463327751717302346
+    second: spelunky character sprites_204
+  - first:
+      213: -2921215368205834794
+    second: spelunky character sprites_205
+  - first:
+      213: -8023773288798179362
+    second: spelunky character sprites_206
+  - first:
+      213: -1237789262604345199
+    second: spelunky character sprites_207
+  - first:
+      213: 2449005970856547870
+    second: spelunky character sprites_208
+  - first:
+      213: 6940058531070866548
+    second: spelunky character sprites_209
+  - first:
+      213: 9084880859062392919
+    second: spelunky character sprites_210
+  - first:
+      213: 8620798368883420175
+    second: spelunky character sprites_211
+  - first:
+      213: -44180487256860992
+    second: spelunky character sprites_212
+  - first:
+      213: -3694620468038843368
+    second: spelunky character sprites_213
+  - first:
+      213: -8002277714686039405
+    second: spelunky character sprites_214
+  - first:
+      213: -3621697052018860271
+    second: spelunky character sprites_215
+  - first:
+      213: 1189643541988513896
+    second: spelunky character sprites_216
+  - first:
+      213: -2743296776566295457
+    second: spelunky character sprites_217
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spelunky character sprites_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1924
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec30c5e5acab6bc0800000000000000
+      internalID: -3788744832977978134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1925
+        width: 82
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120d421318eae6be0800000000000000
+      internalID: -1482055357459804127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1923
+        width: 82
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280788073ce978390800000000000000
+      internalID: -7816104066034405246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1924
+        width: 82
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e987048235bfd190800000000000000
+      internalID: -7935424789835445788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_4
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1924
+        width: 86
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a46e6ebc2067ca0800000000000000
+      internalID: -6019620777158620520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_5
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1925
+        width: 84
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd9978649e61bef0800000000000000
+      internalID: -94172533511053828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_6
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1924
+        width: 82
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645ff628575055e60800000000000000
+      internalID: 7950266719450166598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_7
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1979
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292ac1f7d083de7a0800000000000000
+      internalID: -6346354669276847470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_8
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1924
+        width: 84
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15d78655e2dce030800000000000000
+      internalID: 3525424490765341979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_9
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1924
+        width: 82
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d15685f583a6ae0800000000000000
+      internalID: -1555368739147014756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_10
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1924
+        width: 99
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65e370db276260f0800000000000000
+      internalID: -1125223519010691732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_11
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1923
+        width: 82
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd690a53186c45690800000000000000
+      internalID: -7614242811723868453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_12
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1924
+        width: 82
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4d26ba623c62670800000000000000
+      internalID: 8513706716442055892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_13
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1922
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21bc8f41fbeb1e40800000000000000
+      internalID: 5628351580983832875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_14
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1920
+        width: 82
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18a0d23153bc41e0800000000000000
+      internalID: -2212196155619497958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_15
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1922
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c57684dfe684100800000000000000
+      internalID: 92445826481609799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_16
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1924
+        width: 82
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0aae0c7cf73bed00800000000000000
+      internalID: 1002956899572689418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1784
+        width: 92
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1e00f0e5e999950800000000000000
+      internalID: 6456365667628147149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1797
+        width: 98
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23612b46239bead0800000000000000
+      internalID: -2671880161235737809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1797
+        width: 99
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36c5e98d2036dea0800000000000000
+      internalID: -5848434093948811716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1797
+        width: 98
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e880c1c1c6b7d80800000000000000
+      internalID: -8251883024241095045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_21
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1796
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3a60f78127037a0800000000000000
+      internalID: -6399489620957551679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_22
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1796
+        width: 98
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d83023c3db58cbf0800000000000000
+      internalID: -303892009777612590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_23
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1797
+        width: 99
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e782ffb083a26b0800000000000000
+      internalID: -5320378385608180177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_24
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1796
+        width: 97
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f542bf7e177647510800000000000000
+      internalID: 1545974311015883871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_25
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1797
+        width: 98
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ab2b9712fef6c50800000000000000
+      internalID: 6660805300958968374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_26
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1782
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2efcaf390cf70a0800000000000000
+      internalID: -6881569963798175008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_27
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1797
+        width: 119
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b31bba56b0f45b0800000000000000
+      internalID: -5382070498384331985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_28
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1797
+        width: 115
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4821642d097773270800000000000000
+      internalID: 8230178307929674372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_29
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1252
+        width: 464
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09357e733c0f63a0800000000000000
+      internalID: -6670099107807938293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1775
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d314d12735398db0800000000000000
+      internalID: -4789238217824791599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_31
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1667
+        width: 86
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee1149a2b365b3d0800000000000000
+      internalID: -3191535141927182610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_32
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1667
+        width: 90
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbcaf0eb4d1db940800000000000000
+      internalID: 5313435347101338577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_33
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1669
+        width: 94
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8ed2e3875d855a0800000000000000
+      internalID: -6532236547084916543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_34
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1668
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139eb32e47e9dd220800000000000000
+      internalID: 2512338391991576881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_35
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1667
+        width: 84
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5448471dc63793710800000000000000
+      internalID: 1673495647752586309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_36
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1682
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806504fcfcc54afd0800000000000000
+      internalID: -2331636659465988600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_37
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1678
+        width: 117
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c8f64312fd0b7c0800000000000000
+      internalID: -4057497930554176472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_38
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1653
+        width: 82
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7813eb2653a0d07d0800000000000000
+      internalID: -2950690956451630713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_39
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1763
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82638374c8c6ee90800000000000000
+      internalID: -6996684224996351346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_40
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1765
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183b7d618b7f2c000800000000000000
+      internalID: 54878515511145345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_41
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1666
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f129f077b1fec1da0800000000000000
+      internalID: -5972636104559455713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_42
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1668
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6f23fcacefd7af0800000000000000
+      internalID: -396881045125663010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_43
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1665
+        width: 106
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfaf6093193234d0800000000000000
+      internalID: -3156397632642895951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_44
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1667
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70e9aad98ecaa9c0800000000000000
+      internalID: -3915089834570817413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_45
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1707
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41aca09450f0ff600800000000000000
+      internalID: 504138198663481876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_46
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1540
+        width: 82
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c32d83a3ab5a590800000000000000
+      internalID: -7663514431676859320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_47
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1540
+        width: 89
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d86a278353df9660800000000000000
+      internalID: 7394861468869093593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_48
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1540
+        width: 82
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163b8cb845113f080800000000000000
+      internalID: -9154954562693975199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_49
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1638
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3dad5d362d9b730800000000000000
+      internalID: 4015471869008991149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_50
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1540
+        width: 91
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a4d4f00985ab4e0800000000000000
+      internalID: -1965160911638541755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_51
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1537
+        width: 97
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0de703ba3b13b80800000000000000
+      internalID: -8416748680744349456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_52
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1531
+        width: 97
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834fa67703624a1c0800000000000000
+      internalID: -4493424538605128648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_53
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1537
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad213a857f9e39e60800000000000000
+      internalID: 7967969414301815514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_54
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1650
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e71a5d1adac6010800000000000000
+      internalID: 1183511712677068353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_55
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1540
+        width: 89
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a221a14d9099780800000000000000
+      internalID: -8675892400577435084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_56
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1564
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63c4912874ce11c0800000000000000
+      internalID: -4530968154849623185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_57
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1540
+        width: 88
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee442aac2a7cd370800000000000000
+      internalID: 8348682141489712876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_58
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1540
+        width: 101
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8036372984736990800000000000000
+      internalID: -7393938030795018100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_59
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1540
+        width: 82
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205f11427dfbc7d70800000000000000
+      internalID: 9042313082597143810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_60
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1537
+        width: 97
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c97073fed1c2310800000000000000
+      internalID: 1381512098953534606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_61
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1413
+        width: 86
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa9bebafa45e3d30800000000000000
+      internalID: 4413057798350019236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_62
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1412
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ecbde18c227c1c0800000000000000
+      internalID: -4483576661117514088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_63
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1413
+        width: 95
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5cd56c325c0b310800000000000000
+      internalID: 1418850640064267729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_64
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1432
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0ee1bd69d17b6c0800000000000000
+      internalID: -4127797999703236427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_65
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1413
+        width: 82
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c75560bef0fbb70800000000000000
+      internalID: 8916863289314868264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_66
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1411
+        width: 82
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d830c5d8dbd2ea5d0800000000000000
+      internalID: -3049449605539560563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_67
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1412
+        width: 92
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1960256c0d1d89930800000000000000
+      internalID: 4150297751232579217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_68
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1412
+        width: 85
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b71093e43fafeec0800000000000000
+      internalID: -3535414540771518542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_69
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1411
+        width: 90
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e9ff11bb530be00800000000000000
+      internalID: 1058404990009187924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_70
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1412
+        width: 88
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb57a1925fbd8ed0800000000000000
+      internalID: -2410059864221459529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_71
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1412
+        width: 93
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7d7570c4a090ed0800000000000000
+      internalID: -2447413600842164235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_72
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1411
+        width: 91
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4857e700b287c8fa0800000000000000
+      internalID: -5797126494245456508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_73
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1283
+        width: 76
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c049b1fc1c49260800000000000000
+      internalID: 7103515607535193135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_74
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1282
+        width: 76
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872b819d8b84434a0800000000000000
+      internalID: -6614581993946959240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_75
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1284
+        width: 76
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f510fcfa8f4f2c40800000000000000
+      internalID: 5489693929155597811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_76
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1283
+        width: 76
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3413d4b79e19c180800000000000000
+      internalID: -9094704335575378881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_77
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1282
+        width: 76
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03b9b3c8513a0e00800000000000000
+      internalID: 1011675323608707851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_78
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1284
+        width: 76
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58d2cdc1af5e11f0800000000000000
+      internalID: -1072314512721127331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_79
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1283
+        width: 84
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12959521d8a228a10800000000000000
+      internalID: 1910135977345112353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_80
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1283
+        width: 84
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b84abd61a77ccab0800000000000000
+      internalID: -4986479152191616844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_81
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1282
+        width: 82
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6caa45d9b5ad9fd0800000000000000
+      internalID: -2333526814342075282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_82
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1283
+        width: 84
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132869607d621bc40800000000000000
+      internalID: 5526240922730660401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_83
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1283
+        width: 84
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93f39fef60891a50800000000000000
+      internalID: 6492361556080456606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_84
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1282
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468dd701bd4359a10800000000000000
+      internalID: 1915495331995179108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_85
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1156
+        width: 100
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6df8c9a3923282e0800000000000000
+      internalID: -2125080464375349908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_86
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1263
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0731a9bc710038a20800000000000000
+      internalID: 3063292273742189424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_87
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1152
+        width: 100
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d256d4c7f668670800000000000000
+      internalID: 8540636323019828624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_88
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1155
+        width: 100
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41cf1a81bac6cf60800000000000000
+      internalID: 8054347847474069834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_89
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1157
+        width: 100
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b32c0c280650bf0800000000000000
+      internalID: -358774480610116793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_90
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1156
+        width: 100
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83f90393079f9ee0800000000000000
+      internalID: -1252116129778109553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_91
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1155
+        width: 100
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d501bcb0ff884f0800000000000000
+      internalID: -826130105505915582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_92
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1156
+        width: 90
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3f47f6acce10780800000000000000
+      internalID: -8718427049415085138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_93
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1154
+        width: 93
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8768a5eb04493fc80800000000000000
+      internalID: -8290119483266529672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_94
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1152
+        width: 92
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca12dc5112f4d7220800000000000000
+      internalID: 2485229572896661932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_95
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1156
+        width: 90
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02f76d27795880a0800000000000000
+      internalID: -6879150062410665462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_96
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1154
+        width: 93
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3d2ee51943829e0800000000000000
+      internalID: -1646007864837090373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_97
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1152
+        width: 92
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126ee17b4f1e1cb30800000000000000
+      internalID: 4305971159903430177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_98
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1035
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d32821d182a05350800000000000000
+      internalID: 6003476981728420819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_99
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1036
+        width: 87
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b088ade4642d760800000000000000
+      internalID: 7481119235503557460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_100
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1025
+        width: 97
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cfd221191976f20800000000000000
+      internalID: 3415858894645099596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_101
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1023
+        width: 85
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f98f4b7839eb8820800000000000000
+      internalID: 2921685212076149233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_102
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1035
+        width: 84
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2de1c83718c9470800000000000000
+      internalID: 8402733338038555370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_103
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1035
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf8637835e49d990800000000000000
+      internalID: -7360765995302613062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_104
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1036
+        width: 87
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a4737d449e0a0c0800000000000000
+      internalID: -4566393540275910135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_105
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1025
+        width: 97
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c33300e9b878b210800000000000000
+      internalID: 1348960828120052676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_106
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1023
+        width: 85
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b6e8a7426590f00800000000000000
+      internalID: 1083491900034280205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_107
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1036
+        width: 84
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcbcb69b86bf99b0800000000000000
+      internalID: -5071133944750228268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_108
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1034
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebbef04a6b09ef90800000000000000
+      internalID: -6923990401120551960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_109
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1023
+        width: 99
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42b662e8b1802e20800000000000000
+      internalID: 3323799156071772748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_110
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1023
+        width: 99
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac12c2ec0094e6e0800000000000000
+      internalID: -1809162765277717336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_111
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1059
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2233931e4311b10800000000000000
+      internalID: 1950398255560073976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_112
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1023
+        width: 99
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b3e54b09b8d4f40800000000000000
+      internalID: 5714376955820653405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_113
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1022
+        width: 92
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cdb0bda803d3510800000000000000
+      internalID: 1530432821314444295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_114
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 900
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94abe8e4d379ff20800000000000000
+      internalID: 3456921547261584541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_115
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 900
+        width: 83
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d06e6a6be5c8d0f0800000000000000
+      internalID: -1091905294743740200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_116
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 900
+        width: 82
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8014b7b7da56157f0800000000000000
+      internalID: -625607077452365560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_117
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 900
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071b6256d2f202930800000000000000
+      internalID: 4116341931433701744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_118
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 900
+        width: 81
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8aa7acfac16dbb70800000000000000
+      internalID: 8916390361713584782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_119
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 881
+        width: 83
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043394e988fd31350800000000000000
+      internalID: 5986374107569664832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_120
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 900
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4253989b74cac58a0800000000000000
+      internalID: -6314983153424845532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_121
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 902
+        width: 89
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a744ae53743c5940800000000000000
+      internalID: 5286157732739827619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_122
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 902
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfa47e48291d9b40800000000000000
+      internalID: 5448538785093824433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_123
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 902
+        width: 85
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a495efad1eac6f0800000000000000
+      internalID: -663469664397342135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_124
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 902
+        width: 85
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31576b966851bc7c0800000000000000
+      internalID: -4050119772846263021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_125
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 892
+        width: 86
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7119a44c07e55d0800000000000000
+      internalID: -3071893907453175894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_126
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 902
+        width: 85
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a968e2d3b321f8a0800000000000000
+      internalID: -6273193550705825376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_127
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 902
+        width: 85
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cb59acff5f26230800000000000000
+      internalID: 3630734728578317374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_128
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 902
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e2d1dd1115aedd0800000000000000
+      internalID: -2456061509611213157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_129
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 773
+        width: 89
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c3a6b150e9fa0f0800000000000000
+      internalID: -1103489638910509929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_130
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 767
+        width: 82
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575cfa7526c167e80800000000000000
+      internalID: -8181320464368417419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_131
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 767
+        width: 82
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1eeda93ce8c8040800000000000000
+      internalID: 4651249485934944753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_132
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 767
+        width: 83
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7841a5794ca814680800000000000000
+      internalID: -8772578022183529337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_133
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 642
+        width: 114
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d16ce942fd1444e0800000000000000
+      internalID: -1998439408186138152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_134
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 770
+        width: 97
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0a839f2cb205de0800000000000000
+      internalID: -1346528172178890553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_135
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 642
+        width: 114
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f641718472c4c0d00800000000000000
+      internalID: 940210153810498671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_136
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 767
+        width: 88
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778c9ea90a37c05f0800000000000000
+      internalID: -789128701065705353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_137
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 767
+        width: 86
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53567db27ffbaa350800000000000000
+      internalID: 6028842119502193973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_138
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 767
+        width: 86
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2724cb25068d0f90800000000000000
+      internalID: -6985780090214537430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_139
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 770
+        width: 97
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23e8d01a2ee6a2b0800000000000000
+      internalID: -5573505624385723602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_140
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 642
+        width: 114
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9c46b201daf4620800000000000000
+      internalID: 2760615381560510904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_141
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 767
+        width: 88
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d59c2c31d9303e80800000000000000
+      internalID: -8200991350621170219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_142
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 767
+        width: 86
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91262fc96fb51d440800000000000000
+      internalID: 4958845779464839705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_143
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 767
+        width: 86
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739bf9ec88e7b89c0800000000000000
+      internalID: -3923903524276029129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_144
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 767
+        width: 83
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61875793bf92e8b90800000000000000
+      internalID: -7237801392160278506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_145
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 767
+        width: 56
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3e5613001bda1d0800000000000000
+      internalID: -3337817134424792111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_146
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 771
+        width: 56
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45ecdb2ce2dbe0c0800000000000000
+      internalID: -4545307487110372017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_147
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 770
+        width: 56
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e10910c6fea912d0800000000000000
+      internalID: -3307420076518866459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_148
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 644
+        width: 114
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4ce8a7e55c38030800000000000000
+      internalID: 3495854745343411415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_149
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 642
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb92e75bdba25c6b0800000000000000
+      internalID: -5276764394112538178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_150
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 641
+        width: 114
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe0ce5f8e15a1da0800000000000000
+      internalID: -5973371894753390863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_151
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 642
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad61a3d88ad255c00800000000000000
+      internalID: 888666703422691034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_152
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 642
+        width: 114
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eca02281a88cdae0800000000000000
+      internalID: -1523192346703778587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_153
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 642
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42850450d068cdc20800000000000000
+      internalID: 3232606023025973284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_154
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 642
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a30d4bca2cd65440800000000000000
+      internalID: 4924365318933775266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_155
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 642
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5c2239057522c00800000000000000
+      internalID: 874357281240827359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_156
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 642
+        width: 114
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2770ec724923e30800000000000000
+      internalID: 4481807477868294867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_157
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 642
+        width: 114
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d89b147743af2e0800000000000000
+      internalID: -2091301390151742191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_158
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 641
+        width: 120
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53a39c0ef06e31b0800000000000000
+      internalID: -5674991836191284387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_159
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 642
+        width: 114
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c894d1ae68315fa0800000000000000
+      internalID: -5813803596145977146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_160
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 642
+        width: 114
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d1d4b4eee7cc230800000000000000
+      internalID: 3660440159076031897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_161
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 532
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b34c0d5c0442c4e0800000000000000
+      internalID: -1962931667688733773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_162
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 516
+        width: 99
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e72b437bd805abd0800000000000000
+      internalID: -2619677869620910110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_163
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 503
+        width: 106
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13da9a8a45f7f44b0800000000000000
+      internalID: -5454000622138708687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_164
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 525
+        width: 74
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948ab9f177c661bc0800000000000000
+      internalID: -3812740775635343287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_165
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 515
+        width: 93
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb18acb338f40200800000000000000
+      internalID: 145513989074852837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_166
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 516
+        width: 87
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701772206e02ee680800000000000000
+      internalID: -8723999255919365881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_167
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 518
+        width: 82
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4aa548e96864ea0800000000000000
+      internalID: -5888871447356857091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_168
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 514
+        width: 82
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f4eec0e504a2a80800000000000000
+      internalID: -8490903374765600957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_169
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 514
+        width: 105
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af71f9756eaff860800000000000000
+      internalID: 7565957649866522533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_170
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 517
+        width: 91
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4e8da3929bbe320800000000000000
+      internalID: 2588365997586572494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_171
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 518
+        width: 130
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e78f5652dff18890800000000000000
+      internalID: -7457398229091514399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_172
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 383
+        width: 27
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ac523a6b072deb0800000000000000
+      internalID: -4696567531670484417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_173
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 431
+        width: 71
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8708d4ed6fe423a10800000000000000
+      internalID: 1887658016020201592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_174
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 415
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f39afdfb1cb76d0800000000000000
+      internalID: -2991584497622237340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_175
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 399
+        width: 69
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619433a4dfa1adc30800000000000000
+      internalID: 4384846862372522262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_176
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 384
+        width: 69
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335cdc201c60a8f10800000000000000
+      internalID: 2272636388007331123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_177
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 387
+        width: 34
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6b242ef37bb0a90800000000000000
+      internalID: -7346576882117986594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_178
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 387
+        width: 30
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60e6d392a89bc660800000000000000
+      internalID: 7407181836173369455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_179
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 415
+        width: 30
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4f072bda44799c0800000000000000
+      internalID: -3920589437788949289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_180
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 443
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f475b899347068500800000000000000
+      internalID: 398013603989116751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_181
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 469
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa643b603bc24a650800000000000000
+      internalID: 6243164130865530543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_182
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 392
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe714b65ad9721090800000000000000
+      internalID: -8065250004002662417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_183
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 416
+        width: 119
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302df863e9d9a4bf0800000000000000
+      internalID: -339285519067262461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_184
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 428
+        width: 121
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a47e7dadb4349bc0800000000000000
+      internalID: -3777336198192794464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_185
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 403
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274e926821dbb4f20800000000000000
+      internalID: 3408025430293865586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_186
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 438
+        width: 123
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c9e09028f655e50800000000000000
+      internalID: 6797461816874015799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_187
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 438
+        width: 125
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbd56f848ef11d60800000000000000
+      internalID: 7859342670033181653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_188
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 299
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d7751538b650100800000000000000
+      internalID: 73583180671057154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_189
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 306
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378f804c9f1939950800000000000000
+      internalID: 6454663192873859187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_190
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 299
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792556dcc2b4bd4e0800000000000000
+      internalID: -1955886957365734761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_191
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 308
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b86e0f0de5f4670800000000000000
+      internalID: 8525136871123487632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_192
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 296
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc004a55ab4181450800000000000000
+      internalID: 6059616089160286413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_193
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 309
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61163203a188cd6f0800000000000000
+      internalID: -658501799444782826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_194
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 294
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9561ed815d4b4750800000000000000
+      internalID: 6290206317221078428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_195
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3133b82f0d7d85a20800000000000000
+      internalID: 3051426039965889299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_196
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 294
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d46e2133420f7d0800000000000000
+      internalID: -2886767559365472932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_197
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 309
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa72da8414756340800000000000000
+      internalID: 4856415404766165759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_198
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 295
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de93944d41d973d00800000000000000
+      internalID: 952402558998624749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_199
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 304
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c793b2ef09fbcd0800000000000000
+      internalID: -2540152243492389843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_200
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 291
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb30ac222bb4f3a0800000000000000
+      internalID: -6632470595757917186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_201
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 305
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea58973c6f834520800000000000000
+      internalID: 2685147497794919149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_202
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 293
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4490faaa1d4a21ce0800000000000000
+      internalID: -1435904110759048892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_203
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 300
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036f94b8472452c20800000000000000
+      internalID: 3181021780127643184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_204
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 294
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf432262c9cfefc0800000000000000
+      internalID: -3463327751717302346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_205
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 299
+        width: 37
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5eda19912c577d0800000000000000
+      internalID: -2921215368205834794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_206
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 295
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfaae2a4b4d5a090800000000000000
+      internalID: -8023773288798179362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_207
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 299
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190eca7493d72dee0800000000000000
+      internalID: -1237789262604345199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_208
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 294
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1617b184fd9cf120800000000000000
+      internalID: 2449005970856547870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_209
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 291
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474f5e8c67a005060800000000000000
+      internalID: 6940058531070866548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_210
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 132
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758d82fe10bf31e70800000000000000
+      internalID: 9084880859062392919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_211
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 132
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c2099017a33a770800000000000000
+      internalID: 8620798368883420175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_212
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 132
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c61d07b41a036ff0800000000000000
+      internalID: -44180487256860992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_213
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 132
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81448ae52421abcc0800000000000000
+      internalID: -3694620468038843368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_214
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 132
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a2d1ef0d232f090800000000000000
+      internalID: -8002277714686039405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_215
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 132
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f165248b52dbdc0800000000000000
+      internalID: -3621697052018860271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_216
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 132
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86810999f76728010800000000000000
+      internalID: 1189643541988513896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky character sprites_217
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 132
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54ba47cd1adde9d0800000000000000
+      internalID: -2743296776566295457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spelunky character sprites_0: -3788744832977978134
+      spelunky character sprites_1: -1482055357459804127
+      spelunky character sprites_10: -1125223519010691732
+      spelunky character sprites_100: 3415858894645099596
+      spelunky character sprites_101: 2921685212076149233
+      spelunky character sprites_102: 8402733338038555370
+      spelunky character sprites_103: -7360765995302613062
+      spelunky character sprites_104: -4566393540275910135
+      spelunky character sprites_105: 1348960828120052676
+      spelunky character sprites_106: 1083491900034280205
+      spelunky character sprites_107: -5071133944750228268
+      spelunky character sprites_108: -6923990401120551960
+      spelunky character sprites_109: 3323799156071772748
+      spelunky character sprites_11: -7614242811723868453
+      spelunky character sprites_110: -1809162765277717336
+      spelunky character sprites_111: 1950398255560073976
+      spelunky character sprites_112: 5714376955820653405
+      spelunky character sprites_113: 1530432821314444295
+      spelunky character sprites_114: 3456921547261584541
+      spelunky character sprites_115: -1091905294743740200
+      spelunky character sprites_116: -625607077452365560
+      spelunky character sprites_117: 4116341931433701744
+      spelunky character sprites_118: 8916390361713584782
+      spelunky character sprites_119: 5986374107569664832
+      spelunky character sprites_12: 8513706716442055892
+      spelunky character sprites_120: -6314983153424845532
+      spelunky character sprites_121: 5286157732739827619
+      spelunky character sprites_122: 5448538785093824433
+      spelunky character sprites_123: -663469664397342135
+      spelunky character sprites_124: -4050119772846263021
+      spelunky character sprites_125: -3071893907453175894
+      spelunky character sprites_126: -6273193550705825376
+      spelunky character sprites_127: 3630734728578317374
+      spelunky character sprites_128: -2456061509611213157
+      spelunky character sprites_129: -1103489638910509929
+      spelunky character sprites_13: 5628351580983832875
+      spelunky character sprites_130: -8181320464368417419
+      spelunky character sprites_131: 4651249485934944753
+      spelunky character sprites_132: -8772578022183529337
+      spelunky character sprites_133: -1998439408186138152
+      spelunky character sprites_134: -1346528172178890553
+      spelunky character sprites_135: 940210153810498671
+      spelunky character sprites_136: -789128701065705353
+      spelunky character sprites_137: 6028842119502193973
+      spelunky character sprites_138: -6985780090214537430
+      spelunky character sprites_139: -5573505624385723602
+      spelunky character sprites_14: -2212196155619497958
+      spelunky character sprites_140: 2760615381560510904
+      spelunky character sprites_141: -8200991350621170219
+      spelunky character sprites_142: 4958845779464839705
+      spelunky character sprites_143: -3923903524276029129
+      spelunky character sprites_144: -7237801392160278506
+      spelunky character sprites_145: -3337817134424792111
+      spelunky character sprites_146: -4545307487110372017
+      spelunky character sprites_147: -3307420076518866459
+      spelunky character sprites_148: 3495854745343411415
+      spelunky character sprites_149: -5276764394112538178
+      spelunky character sprites_15: 92445826481609799
+      spelunky character sprites_150: -5973371894753390863
+      spelunky character sprites_151: 888666703422691034
+      spelunky character sprites_152: -1523192346703778587
+      spelunky character sprites_153: 3232606023025973284
+      spelunky character sprites_154: 4924365318933775266
+      spelunky character sprites_155: 874357281240827359
+      spelunky character sprites_156: 4481807477868294867
+      spelunky character sprites_157: -2091301390151742191
+      spelunky character sprites_158: -5674991836191284387
+      spelunky character sprites_159: -5813803596145977146
+      spelunky character sprites_16: 1002956899572689418
+      spelunky character sprites_160: 3660440159076031897
+      spelunky character sprites_161: -1962931667688733773
+      spelunky character sprites_162: -2619677869620910110
+      spelunky character sprites_163: -5454000622138708687
+      spelunky character sprites_164: -3812740775635343287
+      spelunky character sprites_165: 145513989074852837
+      spelunky character sprites_166: -8723999255919365881
+      spelunky character sprites_167: -5888871447356857091
+      spelunky character sprites_168: -8490903374765600957
+      spelunky character sprites_169: 7565957649866522533
+      spelunky character sprites_17: 6456365667628147149
+      spelunky character sprites_170: 2588365997586572494
+      spelunky character sprites_171: -7457398229091514399
+      spelunky character sprites_172: -4696567531670484417
+      spelunky character sprites_173: 1887658016020201592
+      spelunky character sprites_174: -2991584497622237340
+      spelunky character sprites_175: 4384846862372522262
+      spelunky character sprites_176: 2272636388007331123
+      spelunky character sprites_177: -7346576882117986594
+      spelunky character sprites_178: 7407181836173369455
+      spelunky character sprites_179: -3920589437788949289
+      spelunky character sprites_18: -2671880161235737809
+      spelunky character sprites_180: 398013603989116751
+      spelunky character sprites_181: 6243164130865530543
+      spelunky character sprites_182: -8065250004002662417
+      spelunky character sprites_183: -339285519067262461
+      spelunky character sprites_184: -3777336198192794464
+      spelunky character sprites_185: 3408025430293865586
+      spelunky character sprites_186: 6797461816874015799
+      spelunky character sprites_187: 7859342670033181653
+      spelunky character sprites_188: 73583180671057154
+      spelunky character sprites_189: 6454663192873859187
+      spelunky character sprites_19: -5848434093948811716
+      spelunky character sprites_190: -1955886957365734761
+      spelunky character sprites_191: 8525136871123487632
+      spelunky character sprites_192: 6059616089160286413
+      spelunky character sprites_193: -658501799444782826
+      spelunky character sprites_194: 6290206317221078428
+      spelunky character sprites_195: 3051426039965889299
+      spelunky character sprites_196: -2886767559365472932
+      spelunky character sprites_197: 4856415404766165759
+      spelunky character sprites_198: 952402558998624749
+      spelunky character sprites_199: -2540152243492389843
+      spelunky character sprites_2: -7816104066034405246
+      spelunky character sprites_20: -8251883024241095045
+      spelunky character sprites_200: -6632470595757917186
+      spelunky character sprites_201: 2685147497794919149
+      spelunky character sprites_202: -1435904110759048892
+      spelunky character sprites_203: 3181021780127643184
+      spelunky character sprites_204: -3463327751717302346
+      spelunky character sprites_205: -2921215368205834794
+      spelunky character sprites_206: -8023773288798179362
+      spelunky character sprites_207: -1237789262604345199
+      spelunky character sprites_208: 2449005970856547870
+      spelunky character sprites_209: 6940058531070866548
+      spelunky character sprites_21: -6399489620957551679
+      spelunky character sprites_210: 9084880859062392919
+      spelunky character sprites_211: 8620798368883420175
+      spelunky character sprites_212: -44180487256860992
+      spelunky character sprites_213: -3694620468038843368
+      spelunky character sprites_214: -8002277714686039405
+      spelunky character sprites_215: -3621697052018860271
+      spelunky character sprites_216: 1189643541988513896
+      spelunky character sprites_217: -2743296776566295457
+      spelunky character sprites_22: -303892009777612590
+      spelunky character sprites_23: -5320378385608180177
+      spelunky character sprites_24: 1545974311015883871
+      spelunky character sprites_25: 6660805300958968374
+      spelunky character sprites_26: -6881569963798175008
+      spelunky character sprites_27: -5382070498384331985
+      spelunky character sprites_28: 8230178307929674372
+      spelunky character sprites_29: -6670099107807938293
+      spelunky character sprites_3: -7935424789835445788
+      spelunky character sprites_30: -4789238217824791599
+      spelunky character sprites_31: -3191535141927182610
+      spelunky character sprites_32: 5313435347101338577
+      spelunky character sprites_33: -6532236547084916543
+      spelunky character sprites_34: 2512338391991576881
+      spelunky character sprites_35: 1673495647752586309
+      spelunky character sprites_36: -2331636659465988600
+      spelunky character sprites_37: -4057497930554176472
+      spelunky character sprites_38: -2950690956451630713
+      spelunky character sprites_39: -6996684224996351346
+      spelunky character sprites_4: -6019620777158620520
+      spelunky character sprites_40: 54878515511145345
+      spelunky character sprites_41: -5972636104559455713
+      spelunky character sprites_42: -396881045125663010
+      spelunky character sprites_43: -3156397632642895951
+      spelunky character sprites_44: -3915089834570817413
+      spelunky character sprites_45: 504138198663481876
+      spelunky character sprites_46: -7663514431676859320
+      spelunky character sprites_47: 7394861468869093593
+      spelunky character sprites_48: -9154954562693975199
+      spelunky character sprites_49: 4015471869008991149
+      spelunky character sprites_5: -94172533511053828
+      spelunky character sprites_50: -1965160911638541755
+      spelunky character sprites_51: -8416748680744349456
+      spelunky character sprites_52: -4493424538605128648
+      spelunky character sprites_53: 7967969414301815514
+      spelunky character sprites_54: 1183511712677068353
+      spelunky character sprites_55: -8675892400577435084
+      spelunky character sprites_56: -4530968154849623185
+      spelunky character sprites_57: 8348682141489712876
+      spelunky character sprites_58: -7393938030795018100
+      spelunky character sprites_59: 9042313082597143810
+      spelunky character sprites_6: 7950266719450166598
+      spelunky character sprites_60: 1381512098953534606
+      spelunky character sprites_61: 4413057798350019236
+      spelunky character sprites_62: -4483576661117514088
+      spelunky character sprites_63: 1418850640064267729
+      spelunky character sprites_64: -4127797999703236427
+      spelunky character sprites_65: 8916863289314868264
+      spelunky character sprites_66: -3049449605539560563
+      spelunky character sprites_67: 4150297751232579217
+      spelunky character sprites_68: -3535414540771518542
+      spelunky character sprites_69: 1058404990009187924
+      spelunky character sprites_7: -6346354669276847470
+      spelunky character sprites_70: -2410059864221459529
+      spelunky character sprites_71: -2447413600842164235
+      spelunky character sprites_72: -5797126494245456508
+      spelunky character sprites_73: 7103515607535193135
+      spelunky character sprites_74: -6614581993946959240
+      spelunky character sprites_75: 5489693929155597811
+      spelunky character sprites_76: -9094704335575378881
+      spelunky character sprites_77: 1011675323608707851
+      spelunky character sprites_78: -1072314512721127331
+      spelunky character sprites_79: 1910135977345112353
+      spelunky character sprites_8: 3525424490765341979
+      spelunky character sprites_80: -4986479152191616844
+      spelunky character sprites_81: -2333526814342075282
+      spelunky character sprites_82: 5526240922730660401
+      spelunky character sprites_83: 6492361556080456606
+      spelunky character sprites_84: 1915495331995179108
+      spelunky character sprites_85: -2125080464375349908
+      spelunky character sprites_86: 3063292273742189424
+      spelunky character sprites_87: 8540636323019828624
+      spelunky character sprites_88: 8054347847474069834
+      spelunky character sprites_89: -358774480610116793
+      spelunky character sprites_9: -1555368739147014756
+      spelunky character sprites_90: -1252116129778109553
+      spelunky character sprites_91: -826130105505915582
+      spelunky character sprites_92: -8718427049415085138
+      spelunky character sprites_93: -8290119483266529672
+      spelunky character sprites_94: 2485229572896661932
+      spelunky character sprites_95: -6879150062410665462
+      spelunky character sprites_96: -1646007864837090373
+      spelunky character sprites_97: 4305971159903430177
+      spelunky character sprites_98: 6003476981728420819
+      spelunky character sprites_99: 7481119235503557460
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
