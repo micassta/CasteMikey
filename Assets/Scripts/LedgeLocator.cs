@@ -80,7 +80,7 @@ public class LedgeLocator : Player
                     if (bc.bounds.max.y < ledgeCollider.bounds.max.y && bc.bounds.max.y > ledgeCollider.bounds.center.y && bc.bounds.min.x < ledgeCollider.bounds.min.x)
                     {
                         grabbingLedge = true;
-                        //anim.SetBool("LedgeHanging", true);
+                        anim.SetBool("LedgeHanging", true);
                     }
                 }
             }
@@ -98,7 +98,7 @@ public class LedgeLocator : Player
                     if (bc.bounds.max.y < ledgeCollider.bounds.max.y && bc.bounds.max.y > ledgeCollider.bounds.center.y && bc.bounds.max.x > ledgeCollider.bounds.max.x)
                     {
                         grabbingLedge = true;
-                        //anim.SetBool("LedgeHanging", true);
+                        anim.SetBool("LedgeHanging", true);
                     }
                 }
             }
@@ -130,7 +130,7 @@ public class LedgeLocator : Player
             climbing = true;
 
             //Stops playing the LedgeHanging bool
-            //anim.SetBool("LedgeHanging", false);
+            anim.SetBool("LedgeHanging", false);
 
             if (transform.localScale.x > 0) //Viendo a la derecha
             {
@@ -150,7 +150,7 @@ public class LedgeLocator : Player
             ledge = null;
             moved = false;
             grabbingLedge = false;
-
+            anim.SetBool("LedgeHanging", false);
             falling = true;
             rb.bodyType = RigidbodyType2D.Dynamic;
             GetComponent<Horizontal_Movement>().enabled = true;
@@ -165,7 +165,7 @@ public class LedgeLocator : Player
             grabbingLedge = false;
 
             //Stops playing the LedgeHanging animation
-            //anim.SetBool("LedgeHanging", false);
+            anim.SetBool("LedgeHanging", false);
 
             falling = true;
             rb.bodyType = RigidbodyType2D.Dynamic;
@@ -186,7 +186,7 @@ public class LedgeLocator : Player
         while (time <= duration)
         {
             //Plays the LedgeClimbing animation
-            //anim.SetBool("LedgeClimbing", true);
+            anim.SetBool("LedgeClimbing", true);
 
             transform.position = Vector2.Lerp(startValue, topOfPlatform, time / duration);
             //rb.linearVelocity = Vector2.Lerp(startValue, topOfPlatform, time / duration);
@@ -201,7 +201,7 @@ public class LedgeLocator : Player
         grabbingLedge = false;
 
         //Stops playing the LedgeClimbing animation
-        //anim.SetBool("LedgeClimbing", false);
+        anim.SetBool("LedgeClimbing", false);
     }
 
     protected virtual void AdjustPlayerPosition()

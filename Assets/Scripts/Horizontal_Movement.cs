@@ -5,7 +5,7 @@ using UnityEngine.TextCore.Text;
 public class Horizontal_Movement : Player
 {
     public Vector2 movement;
-
+    private Crouch crouch;
     public float velocity = 5f;
 
 
@@ -13,6 +13,7 @@ public class Horizontal_Movement : Player
     void Start()
     {
         Features();
+        crouch = GetComponent<Crouch>();
     }
 
     // Update is called once per frame
@@ -38,8 +39,13 @@ public class Horizontal_Movement : Player
         {
             //Debug.Log("TOY CAMINANDO");
 
-            //anim.SetBool("Idle", true);
-            //anim.SetBool("Walking", false);
+            anim.SetBool("Idle", false);
+
+            if (crouch.isCrouching)
+                anim.SetBool("moveCrouching", true);
+
+            else if (!crouch.isCrouching)
+                anim.SetBool("Walking", true);
 
             if (movement.x < 0 && !player.isFacingLeft)
             {
@@ -60,8 +66,11 @@ public class Horizontal_Movement : Player
         {
             //Debug.Log("TOY PARADO");
 
-            //player.anim.SetBool("Idle", true);
-            //player.anim.SetBool("Walking", false);
+            anim.SetBool("Idle", true);
+
+
+            anim.SetBool("moveCrouching", false);
+            anim.SetBool("Walking", false);
         }
     }
 }

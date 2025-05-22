@@ -34,9 +34,9 @@ public class Crouch : Player
             isCrouching = true;
             interactuarObjeto.AgarrarSoltar();
             bc.offset = new Vector2(0f, -0.25f);
-            bc.size = new Vector2(1f, 0.5f);
-            horizontal.velocity = 2.5f;
-            jump.jumpForce = 1.5f;
+            bc.size = new Vector2(1.25f, 0.7890625f);
+            horizontal.velocity = 3f;
+            jump.jumpForce = 3f;
         }
         else
         {
@@ -44,12 +44,15 @@ public class Crouch : Player
             {
                 isCrouching = false;
                 interactuarObjeto.Arrojar();
-                bc.offset = new Vector2(0f, 0f);
-                bc.size = new Vector2(1f, 1f);
-                horizontal.velocity = 5f;
-                jump.jumpForce = 5f;
+                bc.offset = new Vector2(0.07f, 0f);
+                bc.size = new Vector2(0.53f, 1.578125f);
+                horizontal.velocity = 7f;
+                jump.jumpForce = 7f;
             }
         }
+
+        anim.SetBool("Crouching", isCrouching);
+
     }
 
     private void OnDrawGizmos()

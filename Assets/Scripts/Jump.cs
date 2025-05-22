@@ -3,26 +3,27 @@ using UnityEngine;
 
 public class Jump : Player
 {
-    public float jumpForce = 5f;
+    public float jumpForce = 7f;
     public float raycastDistance_hit_floor = 0.5f;
     public LayerMask floorLayer;
     public bool onFloor;
     public Vector2 sizeBoxOnFloor = new Vector2(0.76f, 0.6f);
     private bool jumpRequested = false;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         Features();
+        anim = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
     void Update()
     {
         RaycastHit2D hit_floor = Physics2D.BoxCast(transform.position, sizeBoxOnFloor, 0f, Vector2.down, raycastDistance_hit_floor, floorLayer);
         onFloor = hit_floor.collider != null;
 
-        // Salto (pedimos salto)
+        anim.SetBool("OnFloor", onFloor);
+        anim.SetFloat("yVelocity", rb.linearVelocity.y);
+
         if (Input.GetKeyDown(KeyCode.Space) && onFloor && !isJumping)
         {
             jumpRequested = true;

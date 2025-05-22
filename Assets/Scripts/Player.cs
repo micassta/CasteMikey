@@ -3,8 +3,8 @@ using System.Collections;
 
 public class Player : MonoBehaviour
 {
-    protected Rigidbody2D rb;
-    protected BoxCollider2D bc;
+    public Rigidbody2D rb;
+    public BoxCollider2D bc;
 
     protected Animator anim;
 

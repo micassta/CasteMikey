@@ -118,7 +118,7 @@ public class Interactuar_Objeto : Player
     }
         
     //Ataque de latigo
-    IEnumerator WhipSequence()
+    public IEnumerator WhipSequence()
     {
         isWhipping = true;
         Player_Movement.canFlip = false; // no deja girar mientras ataca
